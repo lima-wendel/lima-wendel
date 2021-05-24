@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lima-wendel/lima-wendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,18 @@ I describe myself as a passionate developer who loves coding!
 
 Skills: Java / Spring / Kotlin / AWS / Terraform / Docker / CSS / HTML
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Java, Spring and Kotlin. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lima-wendel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wendellima/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-wendel)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lima-wendel&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lima-wendel)  
+
+
 
 
 
