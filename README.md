@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, I am Wendel Lima!
+#### Jr Software Developer
+I describe myself as a passionate developer who loves coding!
+
+Skills: Java / Spring / Kotlin / AWS / Terraform / Docker / CSS / HTML
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
